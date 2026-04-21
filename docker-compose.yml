@@ -8,7 +8,7 @@ services:
   api:
     build: ./api
     ports:
-      -'5555:5000'
+      - '5555:5000'
   mysql:
     image: mysql
     environment:
@@ -18,4 +18,4 @@ services:
   adminer:
     image: adminer
     ports:
-      -'8888:8080'
+      - '8888:8080'
