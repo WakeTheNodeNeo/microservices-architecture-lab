@@ -6,7 +6,7 @@ const pool = mysql.createPool({
   port: '3306',
   user: 'root',
   password: 'password',
-  database: 'time_db',
+  database: 'time-db',
 })
 
 const CREATE_TIMES_TABLE_SQL = `CREATE TABLE IF NOT EXISTS times (
