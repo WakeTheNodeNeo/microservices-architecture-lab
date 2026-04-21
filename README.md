@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1536" height="1024" alt="962d2340-0c1d-4c14-9cbc-e0a22a093177" src="https://github.com/user-attachments/assets/54f52a93-03cb-440e-9e03-cecde638a28c" />
+
 
 # Time App — Dockerized Microservices Lab
 
